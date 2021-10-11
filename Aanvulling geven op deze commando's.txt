@@ -1,0 +1,9 @@
+# Vul in eigen woorden aan wat de commando, die hieronder staan, doen:
+
+#git status = Geef een status weer van wat je momenteel in je branch doet
+#git init = Init maakt een nieuwe repository aan
+#git diff = Deze commando laat zien wat het verschil is tussen commit's van bestanden en of wat het verschil is tussen wat je nu hebt gemaakt en wat er in je repository staat
+#git reset = Dit commando kan je locale veranderen terug zetten
+#git rm = Hiermee kun je bestanden verwijderen
+#git log = Dit commando laat een log bestand zien waar je alle commits in je repository kan zien
+#git stash = Met stash kan je veranderingen tijdelijk even opslaan
